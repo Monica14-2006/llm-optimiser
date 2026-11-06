@@ -1,0 +1,4 @@
+model,quant,size_mib,prefill_tok_s,decode_tok_s,perplexity,ppl_stderr
+qwen2.5-1.5b,Q2_K,712,725.03,66.38,18.2713,0.712
+qwen2.5-1.5b,Q4_K_M,1065,708.42,64.75,11.6308,0.445
+qwen2.5-1.5b,Q8_0,1802,796.71,50.05,11.1022,0.424
