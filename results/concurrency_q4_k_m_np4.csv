@@ -1,0 +1,5 @@
+label,concurrency,ttft_mean_ms,ttft_p95_ms,tpot_mean_ms,latency_mean_s,latency_p95_s,per_user_tok_s,agg_tok_s
+q4_k_m_np4,1,118.3,130.2,16.44,2.21,2.31,61.0,58.2
+q4_k_m_np4,2,229.3,235.2,28.65,3.87,3.92,34.9,66.2
+q4_k_m_np4,4,425.8,497.7,28.8,4.08,4.36,34.8,125.6
+q4_k_m_np4,8,2357.8,4627.8,27.88,5.9,8.06,36.0,131.8
