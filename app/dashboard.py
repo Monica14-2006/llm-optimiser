@@ -64,5 +64,5 @@ with t3:
                                hover_data=["ttft_p95_ms"],
                                title=f"{users} user(s): top-left is best (fast and accurate)"),
                     use_container_width=True)
-st.caption("Each point is the median of 3 runs. Perplexity was measured on 20 WikiText-2 chunks, "
+st.caption("Each point is the median of 3 runs. Perplexity was measured on 100 WikiText-2 chunks, "
            "so small differences between Q4_K_M and Q8_0 are within error.")
